@@ -1,0 +1,8 @@
+server:
+  port: 4090
+  servlet:
+    context-path: /mredust-order
+
+spring:
+  profiles:
+    include: alipay
