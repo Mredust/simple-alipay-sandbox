@@ -1,6 +1,6 @@
 alipay:
   # appid
-  appId: 9021000134659101
+  appId: 
   # 客户私钥
   privateKey: 
   # 支付宝公钥
